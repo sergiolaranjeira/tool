@@ -1,2 +1,3 @@
-# tool
-A tool for productivity and for starting to develop new ideas
+# Tool
+A tool for productivity and for developing new ideas
+
